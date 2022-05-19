@@ -1,5 +1,3 @@
-# Extras
-
 ## Bot commands to be set in [@BotFather](https://t.me/BotFather)
 
 ```
